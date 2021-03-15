@@ -1,5 +1,5 @@
-name: Bug Report
-description: File a bug report
+name: YAML issue form template
+description: testing…
 title: "[Bug]: "
 labels: [bug]
 issue_body: true
