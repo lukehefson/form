@@ -1,9 +1,9 @@
 ---
 name: Markdown issue template
 about: blip blop
-title: ''
-labels: ''
-assignees: ''
+title: "[Created via MD template]: "
+labels: bug, invalid
+assignees: lukehefson
 
 ---
 
