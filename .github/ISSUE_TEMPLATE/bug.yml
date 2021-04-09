@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report
+description: This is a YAML issue form template
 issue_body: true
 body:
 - type: markdown
