@@ -1,6 +1,6 @@
 name: Bug Report
 description: This is a YAML issue form template
-title:
+title: []
 body:
 - type: markdown
   attributes:
