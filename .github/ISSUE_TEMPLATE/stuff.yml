@@ -1,5 +1,5 @@
 name: Stuff and things
-about: things
+description: things
 body:
 - type: markdown
   attributes:
