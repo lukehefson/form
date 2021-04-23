@@ -1,0 +1,10 @@
+name: Stuff and things
+about: things
+body:
+- type: markdown
+  attributes:
+    value: "tell me something"
+- type: textarea
+  attributes:
+    label: "Bugss"
+    render: ruby
