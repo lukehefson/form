@@ -18,6 +18,13 @@ body:
   validations:
     required: false
 - type: textarea
+  id: summary
+  attributes:
+    label: Summary
+    description: A couple of sentances
+  validations:
+    required: true
+- type: textarea
   id: what-happened
   attributes:
     label: What happened?
