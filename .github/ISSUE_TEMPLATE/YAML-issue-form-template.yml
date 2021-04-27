@@ -1,4 +1,4 @@
-name: Bug Report
+name: YAML issue form
 description: This is a YAML issue form template
 body:
 - type: markdown
