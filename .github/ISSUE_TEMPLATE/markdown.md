@@ -1,6 +1,6 @@
 ---
 name: Markdown issue template
-about: blip blop
+about: Ye Olde template style
 title: "[Created via MD template]: "
 labels: bug, invalid
 assignees: lukehefson
