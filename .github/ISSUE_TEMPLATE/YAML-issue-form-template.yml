@@ -21,9 +21,9 @@ body:
   id: what-happened
   attributes:
     label: What happened?
-    description: Also tell us, what did you expect to happen?
-    placeholder: Tell us what you see!
-    value: <!-- hotdog -->
+    description: <!-- hotdog -->
+    placeholder: Test
+    value: "A bug happened!"
   validations:
     required: true
 - type: dropdown
