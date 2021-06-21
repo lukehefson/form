@@ -1,5 +1,9 @@
-name: One more test??
+name: docs test
 description: This is a an issue form
+title: "[Bug]: "
+labels: [bug, question]
+assignees:
+- lukehefson
 body:
 - type: textarea
   attributes:
