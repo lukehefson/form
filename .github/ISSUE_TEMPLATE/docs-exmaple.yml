@@ -10,7 +10,7 @@ body:
     label: Operating System
     description: What operating system are you using?
     placeholder: ex. macOS Big Sur
-    value: operating system
+    value: "operating system"
   validations:
     required: true
 - type: dropdown
