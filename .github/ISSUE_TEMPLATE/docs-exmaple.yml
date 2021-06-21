@@ -31,6 +31,10 @@ body:
     options:
     - label: I agree to follow this project's [Code of Conduct](link/to/coc)
       required: true
+    - label: 2
+      required: false
+  validations:
+    required: true
 - type: markdown
   attributes:
     value: "Thanks for completing our form!"
