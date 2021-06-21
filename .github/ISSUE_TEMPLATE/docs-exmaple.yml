@@ -30,9 +30,7 @@ body:
       that everyone agrees to it.
     options:
     - label: I agree to follow this project's [Code of Conduct](link/to/coc)
-      value: agreed
-  validations:
-    required: true
+      required: true
 - type: markdown
   attributes:
     text: "Thanks for completing our form!"
