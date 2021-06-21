@@ -33,4 +33,4 @@ body:
       required: true
 - type: markdown
   attributes:
-    text: "Thanks for completing our form!"
+    value: "Thanks for completing our form!"
