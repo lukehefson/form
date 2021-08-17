@@ -3,7 +3,7 @@ description: "hello"
 title: "[Bug]: "
 labels: [bug, triage]
 assignees:
-  - octocat
+  - 
 body:
   - type: markdown
     attributes:
