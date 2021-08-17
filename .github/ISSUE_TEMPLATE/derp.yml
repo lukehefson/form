@@ -7,7 +7,7 @@ assignees:
 body:
   - type: input
     attributes:
-      label: password
+      label: Contact Details
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
